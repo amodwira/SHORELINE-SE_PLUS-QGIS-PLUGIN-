@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/plugins/shoreline_seplus">
+    <file>icon.png</file>
+  </qresource>
+</RCC>
